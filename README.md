@@ -62,7 +62,7 @@ Meniu echipe:
 0. Exit
 ```
 
-Meniu studenti
+Meniu studenți
 
 ```
 Meniu studenti:
